@@ -5,7 +5,7 @@ Welcome to the workshop!
 
 This is where we are going to write and run our code. 
 
-Click `Tools` (at the bottom of this page) -> `Console` to run your Python scripts. 
+Click `Tools` (at the bottom of this page) -> `Logs` -> Console` to run your Python scripts. 
 
 Python scripts have the file extension `.py`.
 
