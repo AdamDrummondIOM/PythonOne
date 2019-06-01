@@ -28,10 +28,6 @@ Creating functions so we can reuse blocks of code.
 
 How to import other Python libraries, so we can extend the functionality of Python even more.
 
-### ← indentation.py
-
-Python is fickle when it comes to code indentation - here we'll learn how to avoid the common pitfalls.
-
 ### ← lists.py
 
 Creating arrays and lists of variables.
@@ -39,10 +35,6 @@ Creating arrays and lists of variables.
 ### ← loops.py
 
 How to repeat code over and over and over again - quickly!
-
-### ← regex.py
-
-Creating Regular Expressions to filter variables.
 
 ### ← returns.py
 
