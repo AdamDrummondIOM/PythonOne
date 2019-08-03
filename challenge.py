@@ -22,9 +22,16 @@ If we print all of the lists, it should look something like this:
 
 Hints:
 
-> We'll need to loop a piece of code 10 times. 
+> We'll need to write a function that generates a list of random numbers. 
+  The function needs to know how many items will be in the list (a parameter!)
+  
+  It could look something like this:
+  
+  def generate_random_list(length_of_list):
+    # create a random list of items and return it
+  
+> We'll need to loop a piece of code 10 times - inside this loop, we'll need to call 
+  our generate_random_list() function.
 
-> Inside the loop, we want to generate a list of random numbers, with a length that is changing. 
-  Could we use a function with a parameter for list length here? What would this function return?
-
+Start writing code below this comment block!
 '''
