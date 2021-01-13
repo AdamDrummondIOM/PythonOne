@@ -8,3 +8,8 @@ print("Day 7")
 print("Day 8")
 print("Day 9")
 print("Day 10")
+
+print("----")
+
+for num in range(10):
+  print("Day {}".format(num))
