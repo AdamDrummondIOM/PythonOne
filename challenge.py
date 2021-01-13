@@ -1,3 +1,4 @@
+print("Mara we love you")
 '''
 Let's tie all of our skills together!
 
@@ -35,3 +36,14 @@ Hints:
 
 Start writing code below this comment block!
 '''
+
+import random
+
+AllLists = []
+
+for num in range(10):
+  tempList = []
+  for num2 in range(num):
+    tempList.append(random.randint(0,100))
+  AllLists.append(tempList)
+  print(tempList)
