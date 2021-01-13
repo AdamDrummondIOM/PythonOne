@@ -3,4 +3,4 @@ def create_full_name(first_name, last_name):
   return full_name
 
 result = create_full_name("Mohit", "Mandy")
-print(result)
+#print(result)
